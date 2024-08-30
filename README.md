@@ -1,2 +1,2 @@
 # How To Use
-'''bash <(curl -s http://mywebsite.example/myscript.txt)'''
+Type in `bash <(curl -s http://mywebsite.example/myscript.txt)` in your terminal app.
