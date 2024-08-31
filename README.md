@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7fabd944-0f14-437b-af1c-cd5b56903d18" />
+  <img src="./Docs/Images/6fc17803e4d2bf0e5072b88fc0e2af7c.png" />
 </p>
 
-## How To Use
+# How To Use
 __Step 1:__
 Type in `bash <(curl -s https://raw.githubusercontent.com/VoltacceptYT/OS-Ver/main/check.sh)` in your terminal app.
   
