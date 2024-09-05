@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">How To Use</h1>
-## 
+## OS-Ver
 __Step 1:__
 Type in `bash <(curl -s https://raw.githubusercontent.com/VoltacceptYT/OS-Ver/main/check.sh)` in your terminal app.
   
